@@ -4,4 +4,4 @@ Public Email Key: [Public Encryption Key](https://github.com/bohemianchic/JeanDi
 
 ## My blog
 
-[Classstruggle.tech] (https://classstruggle.tech/)
+[Classstruggle.tech](https://classstruggle.tech/)
